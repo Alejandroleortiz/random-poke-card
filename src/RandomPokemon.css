@@ -1,0 +1,9 @@
+.RandomPokemon {
+  border: 2px solid black;
+  border-radius: 25px;
+  background-color: white;
+}
+
+.RandomPokemon img {
+  max-width: 400px;
+}
